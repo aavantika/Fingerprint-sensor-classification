@@ -6,7 +6,9 @@ FPSensorNet: It is a fingerprint sensor classification network based on ResNet50
 
 
 This README will guide you through running the code and getting classification results on test images.
+
 This code is for classifying IITK single fingerprint data consisting of three sensor data i.e Futronics, Lumidigm and SecuGen.
+
 This code is implemented by  avantika singh ( student of Indian Institute of Technology, Mandi).
 
 ----------
