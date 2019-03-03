@@ -1,5 +1,6 @@
 # Fingerprint-sensor-classification
 A CNN based network (FPSensorNet) for fingerprint sensor classification 
+
 FPSensorNet: It is a fingerprint sensor classification network based on ResNet50 architecture. We have tested this network on  databases like FVC2002,FVC2004,FVC2006, IIITD-MOLF and IITK. Since the type of fingerprint sensor in each database is varied thus different models ( having similar architecture but different last FC-layer) have been trained. In the below code we are providing model trained on IITK single fingerprint data. 
 ===================
 
